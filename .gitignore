@@ -20,5 +20,5 @@
 /.idea
 
 # Ignore secret files
-/config/secrets.yml
+#/config/secrets.yml
 /config/twilio.yml
